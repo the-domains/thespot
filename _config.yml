@@ -1,0 +1,28 @@
+name: TheSpot
+favicon: null
+layout_spectrum: 0.7700526684056967
+typography_spectrum: 0.21229881304316223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4909799280576408
+  lightness: 0.4954735659994185
+  saturation: 0.826209269464016
+  rhythmicContrast: 0.334465368418023
+purpose: []
