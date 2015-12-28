@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheSpot]]></title>
+        <description><![CDATA[TheSpot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 18:41:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Concept]]></title>
+            <description><![CDATA[<article><h1>Concept</h1><p>“The Spot” takes urban ladies on adventures far away from their comfort zone and invites viewers to discover a new sport through the eyes of a neophyte.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e35241d2adedea34449c01f64751b04410840c0d.jpg"></article>]]></description>
+            <link>undefinedconcept/index.html</link>
+            <guid isPermaLink="false">ae40f7ff-dd59-4f93-9593-cf38afa49dad</guid>
+            <pubDate>Mon, 28 Dec 2015 18:41:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
